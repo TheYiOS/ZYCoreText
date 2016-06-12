@@ -17,6 +17,7 @@
 
 @interface ZYAttributedLabel ()
 
+@property (nonatomic, strong) NSString *array;
 /**
  * 用来展示的属性字符串
  */
